@@ -1,7 +1,5 @@
 .image {
-    margin-left: 50%;
-    margin-right: 50%;
-    padding-right: 200px;
+    alignment: center;
 }
 .underline {
     text-decoration: underline;
