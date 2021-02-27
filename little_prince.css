@@ -1,6 +1,6 @@
 .image {
-    align-content:center;
-    padding: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 .underline {
     text-decoration: underline;
@@ -9,9 +9,9 @@
     background-color: darkorange;
 }
 .para {
-    align-content: center;
     text-align: left;
-    padding: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 .red {
     color: red;
