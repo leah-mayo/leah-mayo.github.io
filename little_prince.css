@@ -9,10 +9,15 @@
 }
 .para {
     text-align: justify-all;
-    margin: 25px 500px 25px 500px;
+    margin: 25px 25px 25px 25px;
 
 }
 .red {
     color: red;
     font-weight: bold;
+}
+
+div.littleprince {
+    width:500px;
+
 }
