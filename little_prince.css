@@ -1,3 +1,8 @@
+
+div.littleprince {
+    text-align: center;
+    width:200px;
+}
 .image {
     display: block;
     margin-left: auto;
@@ -20,8 +25,3 @@
     font-weight: bold;
 }
 
-div.littleprince {
-    alignment: center;
-    width:200px;
-
-}
