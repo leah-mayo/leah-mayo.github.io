@@ -1,4 +1,4 @@
-.img {
+.image {
     align-content:center;
     padding: 200px;
 }
@@ -8,7 +8,7 @@
 .highlighter {
     background-color: darkorange;
 }
-.p {
+.para {
     align-content: center;
     text-align: left;
     padding: 200px;
