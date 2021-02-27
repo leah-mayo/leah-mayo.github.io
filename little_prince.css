@@ -1,17 +1,17 @@
-img {
+.img {
     alignment:center;
 }
-underline {
+.underline {
     text-decoration: underline;
 }
-highlighter {
+.highlighter {
     background-color: darkorange;
 }
-p {
+.p {
     alignment: center;
     text-align: left;
 }
-red {
+.red {
     color: red;
     font-weight: bold;
 }
