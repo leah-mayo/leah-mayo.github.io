@@ -1,0 +1,17 @@
+img {
+    alignment:center;
+}
+underline {
+    text-decoration: underline;
+}
+highlighter {
+    background-color: darkorange;
+}
+p {
+    alignment: center;
+    text-align: left;
+}
+red {
+    color: red;
+    font-weight: bold;
+}
