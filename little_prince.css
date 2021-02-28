@@ -1,6 +1,6 @@
 
 div.littleprince {
-    alignment: center;
+    padding-left: 200px;
     width: 350px;
 }
 .image {
@@ -16,6 +16,7 @@ div.littleprince {
     background-color: darkorange;
 }
 .para {
+    width: 350px;
     text-align: left;
 }
 .red {
