@@ -18,6 +18,7 @@ div.littleprince {
 .para {
     width: 350px;
     text-align: left;
+    padding: 100px;
 }
 .red {
     color: red;
